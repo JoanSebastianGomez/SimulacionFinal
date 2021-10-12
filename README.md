@@ -1,5 +1,7 @@
 # SimulacionFinal
-
+Integrantes
+Joan Sebastian Gomez Acevedo
+Yenifer Daniela Osorio Gomez
 En este proyecto se presentan diferentes modelos de machine learning para solucionar el problema propuesto
 https://www.kaggle.com/ridhijhamb/water-quality-prediction-binary-classification
 
